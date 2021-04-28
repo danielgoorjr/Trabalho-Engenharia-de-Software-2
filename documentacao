@@ -1,2 +1,30 @@
 Quais são os processos de negócio?
-a)
+a)Durante a construção é comum o cliente fazer pequenas modificações de acabamento. Isto resulta na necessidade de cálculo de áreas para estimar a quantidade de material necessário(azulejos, pisos, argamassas, tintas, etc).
+
+b)Dessa forma, o mestre de obras ou engenheiro civil precisa estimar a área rapidamente para informar ao setor de compras a quantidade de material necessário a ser adquirido para completar a obra no prazo.
+
+---------------------------------------------------
+
+-Quais são as regras de negócio?
+a) RN0001 - A área do retângulo é dada pela seguinte fórmula:
+Área = lado * lado
+
+b) RN0002 - O perímetro do retângulo é dado pela seguinte fórmula: 
+Perímetro = 2*(base+altura).
+
+c) RN0003 - A área da circunfêrencia é dada pela seguinte fórmula:
+Área = Pi * raioˆ2.
+
+d) RN0004 - O perimetro da circunferência é dado pela seguinte fórmula:
+
+Perímetro = 2 * Pi * raio.
+
+--------------------------------------------------
+-Quem são os stakeholders?
+  -Mestre de obras
+  -Engenheiro civil
+
+  --------------------------------------------------
+  REQUISITO:
+
+  -R0001 -  A solução/aplicativo deverá ser implementada utilizando JAVA.
