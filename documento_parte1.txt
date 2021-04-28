@@ -15,7 +15,6 @@ Sofware focado em automatizar o cálculo de área para engenheiros civis e mestr
   -Perímetro: diz respeito à soma das arestas ou superfícies que delimitam a figura geométrica plana.
   -Área: diz respeito extensão limitada de espaço, território ou superfície.
   -Mestre de Obra: pessoa encarregada de coordenar em campo do ponto de vista de pessoas, recursos e tempo.
-
   -Engenheiro Civil: responsável pelo projeto da obra e garantia de execução da obra conforme os parâmetros estabelecidos nos projeto.
 
   --------------------------------------------------
