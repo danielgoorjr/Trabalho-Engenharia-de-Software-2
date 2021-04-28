@@ -5,4 +5,5 @@ Sofware focado em automatizar o cálculo de área para engenheiros civis e mestr
 
  -Qual o problema/oportunidade?
  Durante a construção o mestre de obras ou o engenheiro civil deparam-se com problemas relacionados ao cálculo de áreas que envolvem figuras geométricas planas padrão. Estimar a área destas superfícies é de extrema importância, uma vez que envolvem o cálculo do custo envolvido na compra de azulejos, pisos ou tintas para recobrir tais superfícies.
- Contudo, o mestre de obra ou engenheiro civil precisa 
+ Contudo, o mestre de obra ou engenheiro civil precisa fazer estes cálculos de maneira rápida. Considerando que eles tem como principal ferramenta de auxílio ao trabalho seus respectivos celulares, torna-se interessante e prático tornar o celular capaz de fazer rapidamente estes cálculos.
+ Por isto, a criação deste aplicativo tem como finalidade criar 4 sub-rotinas capazes de calcular a área e o perímetro das duas figuras geométricas mais comuns no setor da construção civil: círculos e retângulos.
