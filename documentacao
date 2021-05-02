@@ -10,7 +10,7 @@ Sofware focado em automatizar o cálculo de área para engenheiros civis e mestr
  Considerando que eles tem como principal ferramenta de auxílio ao trabalho seus respectivos celulares, torna-se interessante e prático tornar o celular capaz de fazer rapidamente estes cálculos.
  Por isto, a criação deste aplicativo tem como finalidade criar 4 sub-rotinas capazes de calcular a área e o perímetro das duas figuras geométricas mais comuns no setor da construção civil: círculos e retângulos.
 
---------------------------------------------------
+ --------------------------------------------------
 -Quais são os vocábulos de negócios?
   -Perímetro: diz respeito à soma das arestas ou superfícies que delimitam a figura geométrica plana.
   -Área: diz respeito extensão limitada de espaço, território ou superfície.
